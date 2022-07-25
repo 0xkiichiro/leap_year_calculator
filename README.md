@@ -4,7 +4,7 @@ Basic leap year calculator that runs on html, css & javascript
 
 ## Check the full-functioning site at: https://0xkiichiro.github.io/leap_year_calculator/
 
-![](https://github.com/0xkiichiro/task-tracker/blob/master/Animation.gif)
+![](https://github.com/0xkiichiro/leap_year_calculator/blob/main/Animation.gif)
 
 ## Comments
 
