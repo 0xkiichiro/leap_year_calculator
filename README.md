@@ -1,4 +1,4 @@
-# Task Tracker
+# Leap Year Calculator
 
 Basic leap year calculator that runs on html, css & javascript
 
